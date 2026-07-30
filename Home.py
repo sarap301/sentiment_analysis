@@ -101,7 +101,7 @@ import plotly.express as px
 
 theme_plot = theme_ranking[["short_theme", "Count"]].copy()
 theme_plot["short_theme"] = theme_plot["short_theme"].fillna("Unknown Theme").astype(str)
-theme_plot["Count"] = pd.to_numeric(theme_plot["Count"], errors=coerce")
+theme_plot["Count"] = pd.to_numeric(theme_plot["Count"], errors="coerce")
 theme_plot = theme_plot.dropna(subset=["Count"])
 theme_plot = theme_plot.sort_values("Count", ascending=False).head(10)
 
