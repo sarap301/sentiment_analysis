@@ -15,7 +15,7 @@ filtered = subtopics[
 ]
 
 fig = px.sunburst(
-    subtopics,
+    filtered,
     path=[
         "Theme",
         "Subtopic"
