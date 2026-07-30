@@ -100,10 +100,10 @@ st.subheader("Top Business Themes")
 import plotly.express as px
 
 theme_plot = theme_ranking[["short_theme", "Count"]].copy()
-theme_plot["short_theme"] = theme_plot["short_theme"].fillna("Unknown Theme").astype(str))
+theme_plot["short_theme"] = theme_plot["short_theme"].fillna("Unknown Theme").astype(str)
 theme_plot["Count"] = pd.to_numeric(theme_plot["Count"], errors=coerce")
 theme_plot = theme_plot.dropna(subset=["Count"])
-theme_plot = theme_plot.sort_values("Count", ascending=False).head(10))
+theme_plot = theme_plot.sort_values("Count", ascending=False).head(10)
 
 fig = px.bar(
     theme_plot,
@@ -113,9 +113,7 @@ fig = px.bar(
     title="Top Business Themes"
 )
 
-fig.update_layout(
-    yaxis=dict(categoryorder="total ascending"), xaxis_title = "Messages", yaxis_title="", showlegend=False)
-)
+fig.update_layout(yaxis=dict(categoryorder="total ascending"), xaxis_title = "Messages", yaxis_title="", showlegend=False)
 
 st.plotly_chart(
     fig,
