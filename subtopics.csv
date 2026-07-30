@@ -1,0 +1,101 @@
+Business_Category,Theme,Subtopic,Count
+9,"Analysis of EV Charging Infrastructure Challenges and User Experience with Statiq, with implications for Tata Motors' EV customers.",EV Charging Pricing & Cost Escalation (Statiq),18453
+9,"Analysis of EV Charging Infrastructure Challenges and User Experience with Statiq, with implications for Tata Motors' EV customers.","Statiq App Performance & Reliability (Range Accuracy, Bugs)",18453
+9,"Analysis of EV Charging Infrastructure Challenges and User Experience with Statiq, with implications for Tata Motors' EV customers.",EV Charging Station Infrastructure & Amenities,18453
+9,"Analysis of EV Charging Infrastructure Challenges and User Experience with Statiq, with implications for Tata Motors' EV customers.",Charger Availability & Operational Status,18453
+9,"Analysis of EV Charging Infrastructure Challenges and User Experience with Statiq, with implications for Tata Motors' EV customers.","Specific EV Charging Performance (e.g., Curvv EV Compatibility)",18453
+2,"Enhancing the overall Electric Vehicle ownership lifecycle by addressing critical deficits in highway charging infrastructure, charging station UX, app fragmentation, and post-purchase customer support.",Charging Station Encroachment (ICEing),17751
+2,"Enhancing the overall Electric Vehicle ownership lifecycle by addressing critical deficits in highway charging infrastructure, charging station UX, app fragmentation, and post-purchase customer support.",Real-world Highway Range vs. ICE Fallback Plan,17751
+2,"Enhancing the overall Electric Vehicle ownership lifecycle by addressing critical deficits in highway charging infrastructure, charging station UX, app fragmentation, and post-purchase customer support.",Unified CPO Apps and Session Initiation UX,17751
+2,"Enhancing the overall Electric Vehicle ownership lifecycle by addressing critical deficits in highway charging infrastructure, charging station UX, app fragmentation, and post-purchase customer support.",Destination and Workplace Charging Infrastructure,17751
+2,"Enhancing the overall Electric Vehicle ownership lifecycle by addressing critical deficits in highway charging infrastructure, charging station UX, app fragmentation, and post-purchase customer support.",BMS Software Calibration and Battery Swap Tech,17751
+11,"Evaluating the Reliability of Public Charging Infrastructure, Connector Standards (CCS2), and Customer Experience Challenges in the Indian EV Ecosystem",CCS2 Charger Reliability and App Accuracy,13440
+11,"Evaluating the Reliability of Public Charging Infrastructure, Connector Standards (CCS2), and Customer Experience Challenges in the Indian EV Ecosystem",Public Charging Infrastructure Expansion Targets,13440
+11,"Evaluating the Reliability of Public Charging Infrastructure, Connector Standards (CCS2), and Customer Experience Challenges in the Indian EV Ecosystem",Unified Payment Systems and App Consolidation,13440
+11,"Evaluating the Reliability of Public Charging Infrastructure, Connector Standards (CCS2), and Customer Experience Challenges in the Indian EV Ecosystem",Transition to L3 and L5 Commercial EV Autos,13440
+11,"Evaluating the Reliability of Public Charging Infrastructure, Connector Standards (CCS2), and Customer Experience Challenges in the Indian EV Ecosystem",Lithium Battery Warranties vs Lead-Acid Technology,13440
+4,"Strategic expansion, reliability, and optimization of highway EV fast-charging infrastructure to support long-distance travel.",Highway Fast-Charging Infrastructure Expansion,12031
+4,"Strategic expansion, reliability, and optimization of highway EV fast-charging infrastructure to support long-distance travel.",Charger Queue Management and Dynamic Pricing,12031
+4,"Strategic expansion, reliability, and optimization of highway EV fast-charging infrastructure to support long-distance travel.",Auto-Charge and Seamless Payment Adoption,12031
+4,"Strategic expansion, reliability, and optimization of highway EV fast-charging infrastructure to support long-distance travel.",Station Reliability and Real-Time Status Accuracy,12031
+4,"Strategic expansion, reliability, and optimization of highway EV fast-charging infrastructure to support long-distance travel.",Charging Station Amenities and Customer Experience,12031
+1,"Improving EV Charging Infrastructure Reliability, CPO Coordination, and Customer Experience",Jio-bp Charger Operations and Glitches,10584
+1,"Improving EV Charging Infrastructure Reliability, CPO Coordination, and Customer Experience",Power Reliability and Microgrid/Solar Solutions,10584
+1,"Improving EV Charging Infrastructure Reliability, CPO Coordination, and Customer Experience",Multi-CPO Interoperability and Roaming,10584
+1,"Improving EV Charging Infrastructure Reliability, CPO Coordination, and Customer Experience",Community Support and Representative Engagement,10584
+1,"Improving EV Charging Infrastructure Reliability, CPO Coordination, and Customer Experience",Charging Network Expansion and Site Amenities,10584
+15,"Addressing operational bottlenecks in the public EV charging ecosystem, including hardware reliability (stuck connector guns), payment friction (delayed RFID cards), and the need for unified app-based charging control.",RFID Card Acquisition and Delivery Delays,9981
+15,"Addressing operational bottlenecks in the public EV charging ecosystem, including hardware reliability (stuck connector guns), payment friction (delayed RFID cards), and the need for unified app-based charging control.",Charging Gun Locking and Emergency Release Failures,9981
+15,"Addressing operational bottlenecks in the public EV charging ecosystem, including hardware reliability (stuck connector guns), payment friction (delayed RFID cards), and the need for unified app-based charging control.",Integrated In-App (iRA) Charging Controls,9981
+15,"Addressing operational bottlenecks in the public EV charging ecosystem, including hardware reliability (stuck connector guns), payment friction (delayed RFID cards), and the need for unified app-based charging control.",Real-Time Charger Occupancy and SoC Tracking,9981
+15,"Addressing operational bottlenecks in the public EV charging ecosystem, including hardware reliability (stuck connector guns), payment friction (delayed RFID cards), and the need for unified app-based charging control.",Power Infrastructure Stability and Charger Firmware Issues,9981
+0,"Evaluating and Optimizing EV Public Charging Infrastructure Reliability, Interoperability, and App Usability for Seamless Customer Trips",Charger Reliability and Network Downtime,7955
+0,"Evaluating and Optimizing EV Public Charging Infrastructure Reliability, Interoperability, and App Usability for Seamless Customer Trips",Multi-App Roaming and Interoperability,7955
+0,"Evaluating and Optimizing EV Public Charging Infrastructure Reliability, Interoperability, and App Usability for Seamless Customer Trips",App Usability and Physical Charger Labeling,7955
+0,"Evaluating and Optimizing EV Public Charging Infrastructure Reliability, Interoperability, and App Usability for Seamless Customer Trips",Autocharge and Plug-and-Play Technology,7955
+0,"Evaluating and Optimizing EV Public Charging Infrastructure Reliability, Interoperability, and App Usability for Seamless Customer Trips",Vehicle-Charger Compatibility and Critical Errors,7955
+6,"Enhancing Tata Power's Public EV Charging Infrastructure, Pricing Strategy, and Digital App Experience",Charging Station Reliability and Maintenance,6562
+6,"Enhancing Tata Power's Public EV Charging Infrastructure, Pricing Strategy, and Digital App Experience",Pricing and Tariff Standardization,6562
+6,"Enhancing Tata Power's Public EV Charging Infrastructure, Pricing Strategy, and Digital App Experience",EZ Charge App Bug Fixes and UI Overhaul,6562
+6,"Enhancing Tata Power's Public EV Charging Infrastructure, Pricing Strategy, and Digital App Experience",High-Capacity (60kW-240kW) Charging Infrastructure Rollout,6562
+6,"Enhancing Tata Power's Public EV Charging Infrastructure, Pricing Strategy, and Digital App Experience",CPO Interoperability and Discount Integration,6562
+13,"Improving EV Charging Network User Experience through Mobile App Reliability, Feature Control, and Transparent Charger Power Output Tracking",In-App Feature Control and Card Deactivation,5914
+13,"Improving EV Charging Network User Experience through Mobile App Reliability, Feature Control, and Transparent Charger Power Output Tracking",Advertised vs. Actual Charger Power Delivery,5914
+13,"Improving EV Charging Network User Experience through Mobile App Reliability, Feature Control, and Transparent Charger Power Output Tracking",Station Discovery and Map Listing Accuracy,5914
+13,"Improving EV Charging Network User Experience through Mobile App Reliability, Feature Control, and Transparent Charger Power Output Tracking",CPO App UI/UX and OS Compatibility,5914
+13,"Improving EV Charging Network User Experience through Mobile App Reliability, Feature Control, and Transparent Charger Power Output Tracking",Physical Station Infrastructure and Amenities,5914
+8,"Evaluating Tata Motors' EV charging ecosystem, partner integrations (Statiq, Shell), digital coupon/API failures, and overall customer satisfaction amidst rising competition.","Partner Charging Integrations (Statiq, Shell)",5812
+8,"Evaluating Tata Motors' EV charging ecosystem, partner integrations (Statiq, Shell), digital coupon/API failures, and overall customer satisfaction amidst rising competition.",API and Coupon Code Failures,5812
+8,"Evaluating Tata Motors' EV charging ecosystem, partner integrations (Statiq, Shell), digital coupon/API failures, and overall customer satisfaction amidst rising competition.",Charging Speed Limits and Hardware Performance,5812
+8,"Evaluating Tata Motors' EV charging ecosystem, partner integrations (Statiq, Shell), digital coupon/API failures, and overall customer satisfaction amidst rising competition.",Service Center Overload and Capacity Issues,5812
+8,"Evaluating Tata Motors' EV charging ecosystem, partner integrations (Statiq, Shell), digital coupon/API failures, and overall customer satisfaction amidst rising competition.",In-car Payment and Smart Charging Features,5812
+5,"Enhancing Public Charging Infrastructure Reliability, Weatherproofing, and Charging Station User Experience",Charging station weatherproofing and shelter design,4769
+5,"Enhancing Public Charging Infrastructure Reliability, Weatherproofing, and Charging Station User Experience",Public charging tariffs and electricity cost comparisons,4769
+5,"Enhancing Public Charging Infrastructure Reliability, Weatherproofing, and Charging Station User Experience","Charger reliability, phase issues, and auto-restart capabilities",4769
+5,"Enhancing Public Charging Infrastructure Reliability, Weatherproofing, and Charging Station User Experience",Headlight performance and highway visibility in heavy rain,4769
+5,"Enhancing Public Charging Infrastructure Reliability, Weatherproofing, and Charging Station User Experience",Vehicle charging speed limitations and generation variations,4769
+10,"Addressing EV owner anxieties regarding inadequate OEM headlights, warranty compliance risks of aftermarket modifications, and home/public charging challenges",Headlight illumination safety and aftermarket upgrades,3706
+10,"Addressing EV owner anxieties regarding inadequate OEM headlights, warranty compliance risks of aftermarket modifications, and home/public charging challenges",Warranty compliance and modification restrictions,3706
+10,"Addressing EV owner anxieties regarding inadequate OEM headlights, warranty compliance risks of aftermarket modifications, and home/public charging challenges",Home charging installation and earthing requirements,3706
+10,"Addressing EV owner anxieties regarding inadequate OEM headlights, warranty compliance risks of aftermarket modifications, and home/public charging challenges",Fast charger network reliability and downtime,3706
+10,"Addressing EV owner anxieties regarding inadequate OEM headlights, warranty compliance risks of aftermarket modifications, and home/public charging challenges",Cost and durability of critical EV electrical components (BMS/CCU),3706
+7,"EV Public Charging Tariff Structures, GST Taxation Ambiguities, and Subscription Model Hurdles",GST taxation splits on electricity vs. service charges,3492
+7,"EV Public Charging Tariff Structures, GST Taxation Ambiguities, and Subscription Model Hurdles",Charging station subscription models and expirations,3492
+7,"EV Public Charging Tariff Structures, GST Taxation Ambiguities, and Subscription Model Hurdles",Regional charging price disparities (Karnataka vs. Tamil Nadu),3492
+7,"EV Public Charging Tariff Structures, GST Taxation Ambiguities, and Subscription Model Hurdles",Wallet minimum balance lock-ins and app billing issues,3492
+7,"EV Public Charging Tariff Structures, GST Taxation Ambiguities, and Subscription Model Hurdles",Slow AC charging (3.3kW/7.2kW) vs. DC fast charging economics,3492
+14,"Enhancing the Tata.ev ownership experience through strategic charging network partnerships, charging discounts, software integration, and premium post-purchase customer engagement.","Co-branded Charging Network Partnerships & Discounts (Zeon, Shell, Tata Power)",3020
+14,"Enhancing the Tata.ev ownership experience through strategic charging network partnerships, charging discounts, software integration, and premium post-purchase customer engagement.","Software & Connected-Car Tech (Android Auto, eSIM eKYC, App OTP Issues)",3020
+14,"Enhancing the Tata.ev ownership experience through strategic charging network partnerships, charging discounts, software integration, and premium post-purchase customer engagement.",Tata iRA App Enhancements & CPO Integration,3020
+14,"Enhancing the Tata.ev ownership experience through strategic charging network partnerships, charging discounts, software integration, and premium post-purchase customer engagement.","Post-Delivery Vehicle Personalization & Accessories (Mats, BSO Kit, PPF)",3020
+14,"Enhancing the Tata.ev ownership experience through strategic charging network partnerships, charging discounts, software integration, and premium post-purchase customer engagement.","Brand Perception, Competitive Positioning (MG), & Service Network Reliability",3020
+16,EV Charging Payment Fragmentation and the Transition to Unified UPI Solutions,Wallet Refund Policies and Trapped Balances,2746
+16,EV Charging Payment Fragmentation and the Transition to Unified UPI Solutions,Direct UPI Integration and UPI Lite Payments,2746
+16,EV Charging Payment Fragmentation and the Transition to Unified UPI Solutions,Unified EV Charging App Ecosystems,2746
+16,EV Charging Payment Fragmentation and the Transition to Unified UPI Solutions,Charger Maintenance and DISCOM Fuse Downtime,2746
+16,EV Charging Payment Fragmentation and the Transition to Unified UPI Solutions,Value-Added Manned Station Services,2746
+3,"Evaluating Mahindra's EV expansion, infrastructure rollout, and service capabilities against competitive benchmarks like Tata Motors",High-Speed Charging Infrastructure Deployment,2454
+3,"Evaluating Mahindra's EV expansion, infrastructure rollout, and service capabilities against competitive benchmarks like Tata Motors",OEM Competitive Dynamics (Tata vs. Mahindra vs. Maruti),2454
+3,"Evaluating Mahindra's EV expansion, infrastructure rollout, and service capabilities against competitive benchmarks like Tata Motors",Battery Safety and Post-Fire Brand Response,2454
+3,"Evaluating Mahindra's EV expansion, infrastructure rollout, and service capabilities against competitive benchmarks like Tata Motors",Service Center Competency and Insurance Claim Challenges,2454
+3,"Evaluating Mahindra's EV expansion, infrastructure rollout, and service capabilities against competitive benchmarks like Tata Motors",Vehicle Ergonomics and Rear-Seat Comfort,2454
+17,"EV Charging Infrastructure Costs, Pricing Models, and Grid Load Economics",Public Charging Tariffs and Time-of-Day (ToD) Pricing,2214
+17,"EV Charging Infrastructure Costs, Pricing Models, and Grid Load Economics",Residential Sanctioned vs. Connected Load Management,2214
+17,"EV Charging Infrastructure Costs, Pricing Models, and Grid Load Economics",Charging Station Setup Costs and Business Viability,2214
+17,"EV Charging Infrastructure Costs, Pricing Models, and Grid Load Economics","Utility Billing, DISCOM Regulations, and Penalties",2214
+17,"EV Charging Infrastructure Costs, Pricing Models, and Grid Load Economics","Vehicle Rusting, Paint Quality, and Resale Value Impact",2214
+12,"EV Long-Distance Highway Travel Planning, Charging Infrastructure Reliability, and Ownership Warranty Concerns",Long-distance trip planning and highway route optimization,1933
+12,"EV Long-Distance Highway Travel Planning, Charging Infrastructure Reliability, and Ownership Warranty Concerns","Charging station reliability, status updates, and infrastructure expansion",1933
+12,"EV Long-Distance Highway Travel Planning, Charging Infrastructure Reliability, and Ownership Warranty Concerns","Battery warranty, accidental underbody damage, and claim terms",1933
+12,"EV Long-Distance Highway Travel Planning, Charging Infrastructure Reliability, and Ownership Warranty Concerns","Scheduled vehicle maintenance, service intervals, and reminders",1933
+12,"EV Long-Distance Highway Travel Planning, Charging Infrastructure Reliability, and Ownership Warranty Concerns","Vehicle facelifts, upgrades, and post-purchase customer satisfaction",1933
+19,"Enhancing Public EV Charging Infrastructure Reliability, Charging Speeds, and Operational Cooperation with Oil Marketing Companies (OMCs)",Public Charger Downtime & OMC-Dealer Disputes,1827
+19,"Enhancing Public EV Charging Infrastructure Reliability, Charging Speeds, and Operational Cooperation with Oil Marketing Companies (OMCs)",Charging Speeds (kW/Amp limits & impact on travel time),1827
+19,"Enhancing Public EV Charging Infrastructure Reliability, Charging Speeds, and Operational Cooperation with Oil Marketing Companies (OMCs)",EV Tyre Pressure Maintenance & Weight Implications,1827
+19,"Enhancing Public EV Charging Infrastructure Reliability, Charging Speeds, and Operational Cooperation with Oil Marketing Companies (OMCs)",Extended Warranty Terms and Mileage Thresholds,1827
+19,"Enhancing Public EV Charging Infrastructure Reliability, Charging Speeds, and Operational Cooperation with Oil Marketing Companies (OMCs)",Vehicle-to-Load (V2L) Usage and Accessories,1827
+18,"Optimizing EV Booking, Pre-Launch Reservation Systems, and Delivery Fulfilment to Mitigate Customer Attrition",Pre-Launch Booking and Order Confirmation Glitches,1373
+18,"Optimizing EV Booking, Pre-Launch Reservation Systems, and Delivery Fulfilment to Mitigate Customer Attrition",Delivery Wait Times and Estimated Delivery Date (EDD) Tracking,1373
+18,"Optimizing EV Booking, Pre-Launch Reservation Systems, and Delivery Fulfilment to Mitigate Customer Attrition",Charging Station Slot Booking and Penalty Policies,1373
+18,"Optimizing EV Booking, Pre-Launch Reservation Systems, and Delivery Fulfilment to Mitigate Customer Attrition",Charger Hardware Upgrades (3.3 kW vs 7.2 kW),1373
+18,"Optimizing EV Booking, Pre-Launch Reservation Systems, and Delivery Fulfilment to Mitigate Customer Attrition",Competitor Booking Disillusionment and Attrition,1373
